@@ -362,7 +362,7 @@
       }
     },
     "inspify-ai": {
-      "sha": "ed2975404b4fb44575f101a3b43120f3cab22ae9",
+      "sha": "93f2edf2c0699780d070f904a80eac7850c95765",
       "version": "0.2.0",
       "components": {
         "mcpServers": [

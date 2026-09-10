@@ -314,11 +314,11 @@
       "source": {
         "source": "url",
         "url": "https://github.com/inspify-ai/mcp.git",
-        "sha": "ed2975404b4fb44575f101a3b43120f3cab22ae9"
+        "sha": "93f2edf2c0699780d070f904a80eac7850c95765"
       },
-      "homepage": "https://app.inspify.ai",
+      "homepage": "https://www.inspify.ai/login",
       "keywords": ["inspify", "inspify ai", "creative agency", "story jobs", "brand dna"],
-      "domains": ["inspify.ai", "app.inspify.ai", "mcp.inspify.ai"]
+      "domains": ["inspify.ai", "www.inspify.ai", "mcp.inspify.ai"]
     }
   ]
 }
